@@ -9,12 +9,15 @@ Write a program in Python which will do it for you.
 
 Install the project locally
 ```bash
+git clone https://github.com/SenayYakut/Gradebook.git
 
 ```
 
 ## Usage
+```python
+print(full_gradebook)  '''[('politics', 80), ('latin', 96), ('dance', 97), ('architecture', 65), (98, 'physics'), (97, 'calculus'), (85, 'poetry'), (88, 'history'), (100, 'computer science'), (93, 'visual arts')]'''
 
-
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
